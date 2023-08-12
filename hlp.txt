@@ -1,0 +1,6 @@
+Username: goitlearn
+Password: mO4zR0BhYNRTFQTH
+
+mongodb+srv://goitlearn:<password>@cluster0.hi5rlnt.mongodb.net/?retryWrites=true&w=majority
+
+connect(host="mongodb+srv://goitlearn:mO4zR0BhYNRTFQTH@cluster0.hi5rlnt.mongodb.net/?retryWrites=true&w=majority")
